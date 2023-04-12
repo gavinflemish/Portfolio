@@ -10,7 +10,7 @@ Associate of Science from Rowan-Cabarrus Community College (2021)
 Bachelor of Science, Major in Computer Science from Catawba College (2023)
 
 # Skills
-Python, Java, HTML 5, CSS, JavaScript, 
+Python, Java, HTML 5, CSS, JavaScript, SQL, MySql, Tableau
 
 # Projects
 
@@ -36,9 +36,7 @@ Description of the project, including technologies used and your role in the pro
 GitHub repository: link
 
 Live demo: link (if applicable)
-# Experience
 
-List your relevant work experience, including the name of the company, your job title, and your responsibilities.
 # Certifications
 
 List any relevant certifications you have earned, including the name of the certification and the issuing organization.
