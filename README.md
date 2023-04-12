@@ -6,10 +6,12 @@
 Introduce yourself briefly and mention your skills, experience, and goals. This section should include your contact information (email, LinkedIn, website, etc.).
 
 # Education
-List your education history, including the name of the institution, degree, and graduation date.
+Associate of Science from Rowan-Cabarrus Community College (2021)
+Bachelor of Science, Major in Computer Science from Catawba College (2023)
+
 # Skills
 Python, Java, HTML 5, CSS, JavaScript, 
-List your relevant skills, including programming languages, tools, frameworks, and other relevant skills.
+
 # Projects
 
 List some of your sample projects, including the name, description, and links to their GitHub repositories and live demos (if applicable).
